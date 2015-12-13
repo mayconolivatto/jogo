@@ -1,0 +1,8 @@
+br\com\dojo\jogo\bo\JogadorBO.class
+br\com\dojo\jogo\util\DojoUltil.class
+br\com\dojo\jogo\model\Jogador.class
+br\com\dojo\jogo\model\Partida.class
+br\com\dojo\jogo\main\Principal.class
+br\com\dojo\jogo\model\DadosPartida.class
+br\com\dojo\jogo\repository\RepositorioJogador.class
+br\com\dojo\jogo\log\LogPartida.class
